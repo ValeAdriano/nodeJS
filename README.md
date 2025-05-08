@@ -1,26 +1,32 @@
-# Curso de Node.js — Ada Tech 🚀
+# 📘 Introdução à Plataforma Node.js — Ada Tech
 
-Este repositório contém o material e os projetos desenvolvidos durante o curso de **Node.js** na [Ada Tech](https://ada.tech/). O objetivo é consolidar o aprendizado da plataforma Node.js aplicada ao desenvolvimento backend moderno.
+Bem-vindo ao repositório do curso **Introdução à Plataforma Node.js** da [Ada Tech](https://ada.tech/)!  
+Aqui você encontrará os materiais, códigos-fonte, exemplos e desafios desenvolvidos ao longo das aulas.
 
-## 📚 Conteúdo do Curso
+---
 
-- ✅ Fundamentos do Node.js
-- ✅ Módulos nativos (fs, http, path, etc.)
-- ✅ Gerenciamento de pacotes com NPM/Yarn
-- ✅ Programação assíncrona (callbacks, promises e async/await)
-- ✅ Express.js e criação de APIs REST
-- ✅ Middlewares e tratamento de erros
-- ✅ Integração com bancos de dados (MongoDB / PostgreSQL)
-- ✅ Testes automatizados com Jest / Supertest
-- ✅ Deploy e boas práticas
+## 🎯 Descrição do Curso
 
-## 🛠️ Tecnologias utilizadas
+Neste curso, exploramos os fundamentos da plataforma Node.js, começando com entradas de dados via prompt até manipulação de datas com a biblioteca **Luxon**. Também abordamos:
+
+- Leitura e escrita de **arquivos**
+- Uso de **variáveis de ambiente**
+- Criação de servidores com os protocolos **HTTP e HTTPS**
+- Noções de **segurança** com o módulo `crypto`
+
+Este curso é ideal para quem deseja criar **aplicações web** e **servidores robustos** usando Node.js.
+
+> ⚠️ **Pré-requisitos:** É necessário ter conhecimentos prévios em:
+> - Lógica de programação com JavaScript
+> - Programação paralela e assíncrona (callbacks, promises, async/await)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 - [Node.js](https://nodejs.org/)
-- [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/) ou [PostgreSQL](https://www.postgresql.org/)
-- [Jest](https://jestjs.io/)
-- [Docker](https://www.docker.com/) *(opcional)*
+- [Luxon](https://moment.github.io/luxon/)
+- Módulos nativos (`fs`, `http`, `https`, `crypto`, `readline`)
+- [dotenv](https://www.npmjs.com/package/dotenv) (para variáveis de ambiente)
 
-## 📁 Estrutura do Repositório
-
+---
