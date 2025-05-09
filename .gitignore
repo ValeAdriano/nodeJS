@@ -1,0 +1,42 @@
+# Node
+node_modules/
+dist/
+.cache/
+.nyc_output/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# NestJS
+.env
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Turbo repo / monorepo builds (caso use)
+.turbo/
+.out/
+
+# Next.js (se estiver combinado com frontend SSR)
+.next/
+out/
+
+# Optional: ignore compiled assets if using static assets build
+public/build/
+    
