@@ -1,37 +1,17 @@
-# 🧠 Estudos com NestJS
+# 🚀 Projeto NestJS - API Backend
 
-Este repositório contém meus estudos, exemplos, anotações e pequenos projetos utilizando o **NestJS**, um framework moderno, escalável e altamente produtivo para desenvolvimento de APIs com **Node.js** e **TypeScript**.
+Este projeto foi gerado com o [Nest CLI](https://docs.nestjs.com/cli/overview) e serve como base para desenvolvimento de APIs REST utilizando o framework **NestJS**, que combina TypeScript com os conceitos de programação modular, injeção de dependência e arquitetura inspirada no Angular.
 
----
+## 🧱 Requisitos
 
-## 🚀 Sobre o NestJS
+- Node.js v22+
+- npm ou yarn
+- Nest CLI (`npm install -g @nestjs/cli`)
 
-[NestJS](https://nestjs.com/) é um framework progressivo para construção de aplicações do lado do servidor, baseado em conceitos como injeção de dependência, arquitetura modular e programação orientada a objetos. Ele utiliza o poder do TypeScript e é amplamente utilizado para criação de **APIs RESTful**, **GraphQL**, **microserviços**, entre outros.
+## 📦 Como iniciar o projeto
 
----
+### 1. Clonar o repositório
 
-## 📘 O que estou aprendendo
-
-- ✅ Estrutura básica de projetos NestJS
-- ✅ Módulos, controllers e services
-- ✅ Injeção de dependência
-- ✅ Pipes, guards e interceptors
-- ✅ Validação com `class-validator`
-- ✅ Conexão com banco de dados (TypeORM/Prisma)
-- ✅ JWT e autenticação
-- ✅ Testes com Jest
-- 🔜 GraphQL, Microservices e WebSockets
-
----
-
-## 🛠 Tecnologias utilizadas
-
-- Node.js
-- TypeScript
-- NestJS CLI
-- TypeORM ou Prisma
-- PostgreSQL
-- Jest
-- Insomnia/Postman (para testes de API)
-
----
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
